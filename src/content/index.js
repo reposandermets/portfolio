@@ -79,12 +79,12 @@ const featuredPostsProjects = [
     title: 'Bot for automated trading',
     date: '2020',
     description:
-      'Microservice takes position on crypto exchange is message via HTTP request gets received. Messages being queued using doubled linked list. Golang, Docker.',
+      'Microservice takes position on crypto exchange when message via HTTP request gets received. Messages is being queued using doubled linked list. Golang, Docker.',
     // image: fxlogo,
     imageText: 'Image Text',
     link: 'https://www.github.com/reposandermets/take-positions'
   }, {
-    title: 'Go module',
+    title: 'Go state management module',
     date: '2019',
     description:
       'State management for concurrent processes. Golang, Docker.',
