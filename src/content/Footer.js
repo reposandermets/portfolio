@@ -21,8 +21,8 @@ export default function Footer(props) {
 
           <Link href="https://www.linkedin.com/in/sander-mets-8b80a6b0/">
             <img
-            style={{width:'2em', height:'2em'}} 
-            src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" 
+            style={{width:'2em', height:'2em'}}
+            src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" 
             alt="linkedin"
             />
           </Link>
